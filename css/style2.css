@@ -1,0 +1,70 @@
+body{
+	font-family: 'Futura STD', 'Nunito';
+	color: #FAF3BC;
+	background: #000000 url('#.jpg') repeat;
+}
+
+a {
+	color: #3BCAFF;
+	text-decoration: none;
+	letter-spacing: 1.5px;
+}
+
+h1{
+	font-size: 1.750em;
+	letter-spacing: 2px;
+}
+
+h2{
+	font-size: 1.5em;
+	color: #b4c34f;
+}
+
+
+
+ul.nav {
+	margin: 120px 0 0 0;
+	list-style: none;
+	float: right;
+}
+
+ul.nav li {
+	float: left;
+	margin-right: 40px;
+}
+
+
+#intro {
+	margin: 50px 0 75px 0;
+}
+
+#new-cupcakes img {
+	border: 8px solid #FAF3BC;
+	margin: 0 0 20px 0;
+}
+
+#latest-blog img {
+	border: 8px solid #FAF3BC;
+}
+
+
+p {
+	font-size: 16px;
+}
+
+a:hover { 
+	color: #FAF3BC;
+	text-transform: uppercse;
+}
+
+.grif {
+	text-decoration: bold;
+	text-transform: 
+}
+
+
+
+
+
+
+
