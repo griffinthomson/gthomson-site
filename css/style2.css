@@ -1,6 +1,6 @@
 body{
 	font-family: 'Futura STD', 'Nunito';
-	color: #FAF3BC;
+	color: #FFFFFF;
 	background: #000000 url('#.jpg') repeat;
 }
 
@@ -39,12 +39,12 @@ ul.nav li {
 }
 
 #new-cupcakes img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #FFFFFF;
 	margin: 0 0 20px 0;
 }
 
 #latest-blog img {
-	border: 8px solid #FAF3BC;
+	border: 8px solid #FFFFFF;
 }
 
 
