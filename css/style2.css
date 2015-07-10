@@ -1,5 +1,5 @@
 body{
-	font-family: 'Futura STD', 'Nunito';
+	font-family: 'PT Sans', 'Nunito';
 	color: #FFFFFF;
 	background: #000000 url('#.jpg') repeat;
 }
@@ -23,7 +23,11 @@ h2{
 
 
 ul.nav {
-	margin: 120px 0 0 0;
+<<<<<<< HEAD
+	margin: 70px 0 0 0;
+=======
+	margin: 60px 0 0 0;
+>>>>>>> FETCH_HEAD
 	list-style: none;
 	float: right;
 }
