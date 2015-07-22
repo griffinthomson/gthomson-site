@@ -35,7 +35,8 @@ ul.nav li {
 
 
 #intro {
-	margin: 50px 0 75px 0;
+	max-width: 940px;
+	margin: 50px 0 75px 20px;
 }
 
 #new-cupcakes img {
