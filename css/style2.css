@@ -1,7 +1,7 @@
 body{
 	font-family: 'PT Sans', sans-serif;
 	color: #FFFFFF;
-	background: #000000 url('#.jpg') repeat;
+	background: #000000;
 }
 
 a {
@@ -11,7 +11,7 @@ a {
 }
 
 h1{
-	font-size: 1.750em;
+	font-size: 1.75em;
 	letter-spacing: 2px;
 }
 
@@ -29,16 +29,16 @@ ul.nav li {
 	margin-right: 40px;
 }
 
+#intro li {
+	font-size: 1.25em;
+}
+
 
 #intro {
 	max-width: 940px;
-	margin: 50px 0 75px 20px;
+	margin: 50px 0 75px 40px;
 }
 
-
-p {
-	font-size: 16px;
-}
 
 a:hover { 
 	color: #FAF3BC;
@@ -51,9 +51,15 @@ a:hover {
 
 #container {
 	max-width: 940px;
-	margin: 100px auto;
+	margin: 60px auto;
 }
 
+@media screen and (max-width: 930px) {
+	body {
+		max-width: 80%;
+		font-size: 0.75em;
+	}
+}
 
 
 
