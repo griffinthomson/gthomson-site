@@ -57,11 +57,10 @@ a:hover {
 	margin: 60px auto;
 }
 
-@media screen and (min-width: 20px) and (max-width: 930px){
+@media screen and (max-width: 930px) {
 	body {
 		max-width: 80%;
 		font-size: 0.75em;
-		background: yellow;
 	}
 }
 
